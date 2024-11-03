@@ -1,6 +1,9 @@
 *{
     scroll-behavior: smooth;
 }
+html {
+    font-size: 100%; /* 16px by default in most browsers */
+}
 body {
     margin: 0px;
     padding: 0px;
@@ -8,6 +11,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     max-width: 1400px;
     margin: auto;
+    font-size: 16px;
 }
 a {
     text-decoration: none;
