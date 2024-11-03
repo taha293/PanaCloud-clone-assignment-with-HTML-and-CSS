@@ -263,17 +263,17 @@ li {
 }
 
 .headingss {
-    /* padding: 30px 10px 20px 10px; */
+    padding: 30px 10px 20px 10px;
     
     
 }
 
 .headingss h1 {
     font-size: 35px;
-    /* margin: 0; */
+    margin: 0;
     font-weight: 700;
     text-align: center;
-    /* padding: 0; */
+    padding: 0;
     color: #152016;
 }
 
@@ -285,9 +285,9 @@ li {
     color: #a5a3a3;
     text-align: center;
     /* padding: 0px 200px;  */
-    /* padding-left: 18%;
+    padding-left: 18%;
     padding-right: 18%;
-    margin-top: 6px; */
+    margin-top: 6px;
 }
 
 .advs {
