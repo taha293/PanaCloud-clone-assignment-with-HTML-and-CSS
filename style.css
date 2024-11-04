@@ -197,6 +197,7 @@ li {
     display: none;
     position: relative;
     top: 20px;
+    -webkit-tap-highlight-color: transparent;
 }
 
 /* Container Section */
