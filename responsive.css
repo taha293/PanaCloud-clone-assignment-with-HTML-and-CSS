@@ -261,6 +261,9 @@
     .projectcontainer .projectitems .projectform input[type="text"] {
         width: 350px;
     }
+    .contactsitem1 {
+        padding: 0px 14px;
+    }
     .process {
         flex-wrap: wrap;
         gap: 9px;
@@ -306,6 +309,14 @@
         gap: 42px;
         flex-direction: column;
     }
+    .footercontactdiv{
+        padding-top: 24px;
+    }
+}
+@media only screen and (max-width: 365px) {
+    .contactsitem1 {
+        padding: 0px 2px;
+    }
 }
 @media only screen and (max-width: 348px) {
     .container h1 {
@@ -313,5 +324,8 @@
     }
     .portitems {
         grid-template-columns: 1fr;
+    }
+    .contactsitem1 {
+        padding: 0px 48px;
     }
 }
