@@ -378,6 +378,7 @@ li {
 .about p {
     line-height: 1.1;
     color: #152016;
+    box-sizing: border-box;
 }
 
 /* Services Container */
