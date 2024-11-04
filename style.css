@@ -281,13 +281,14 @@ li {
     text-align: center;
     padding: 0;
     color: #152016;
+    box-sizing: border-box;
 }
 
 .headingss span {
     color: #69901d;
 }
 
-.headingss p {
+.headingss .in {
     color: #a5a3a3;
     text-align: center;
     /* padding: 0px 200px;  */
