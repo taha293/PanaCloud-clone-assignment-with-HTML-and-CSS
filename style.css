@@ -264,8 +264,9 @@ li {
 
 .headingss {
     padding: 30px 10px 20px 10px;
-    padding-left: 18%;
-    padding-right: 18%;
+    padding-left: 170px;
+    padding-right: 170px;
+    width: 100%;
 }
 
 .headingss h1 {
