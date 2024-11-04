@@ -265,6 +265,7 @@ li {
 .headingss {
     padding: 30px 10px 20px 10px;
     box-sizing: border-box;
+
 }
 
 .headingss h1 {
@@ -287,6 +288,8 @@ li {
     padding-left: 18%;
     padding-right: 18%;
     margin-top: 6px;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .advs {
