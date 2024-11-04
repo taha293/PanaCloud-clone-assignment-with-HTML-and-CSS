@@ -1,6 +1,5 @@
 *{
     scroll-behavior: smooth;
-    box-sizing: border-box;
 }
 a {
     -webkit-tap-highlight-color: transparent;
@@ -294,7 +293,7 @@ li {
     padding-left: 18%;
     padding-right: 18%;
     margin-top: 6px;
-    width: 100%;
+    /* width: 100%; */
     box-sizing: border-box;
 }
 
