@@ -345,7 +345,7 @@ li {
     /* background-color: #f2f2f2; */
     background-image: url(assets/img/about.png);
     background-repeat: no-repeat;
-    background-position: top right;
+    background-position: right top;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -366,6 +366,7 @@ li {
     /* background-position: top right; */
     position: relative;
     z-index: 1;
+    width: 100%;
 }
 
 .about {
