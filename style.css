@@ -264,7 +264,8 @@ li {
 
 .headingss {
     padding: 30px 10px 20px 10px;
-    font-size: 16px;
+    padding-left: 18%;
+    padding-right: 18%;
 }
 
 .headingss h1 {
@@ -284,11 +285,8 @@ li {
     color: #a5a3a3;
     text-align: center;
     /* padding: 0px 200px;  */
-    padding-left: 18%;
-    padding-right: 18%;
     margin-top: 6px;
-    font-size: 16px;
-    width: 960px;
+    width: 100%;
 }
 
 .advs {
