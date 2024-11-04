@@ -371,6 +371,7 @@ li {
 .about {
     padding: 2px 0px 45px 35px;
     margin-right: 54%;
+    box-sizing: border-box;
 }
 
 .about p {
