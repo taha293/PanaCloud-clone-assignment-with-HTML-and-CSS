@@ -705,6 +705,7 @@ li {
     justify-content: center;
     align-items: center;
     padding: 20px 2px;
+    box-sizing: border-box;
 }
 .reviewscontainer .reviews .reviewsitems .reviewsitem2 {
     width: 100%;
