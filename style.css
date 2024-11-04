@@ -345,7 +345,7 @@ li {
     /* background-color: #f2f2f2; */
     background-image: url(assets/img/about.png);
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: top right;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -372,12 +372,14 @@ li {
     padding: 2px 0px 45px 35px;
     margin-right: 54%;
     box-sizing: border-box;
+    
 }
 
 .about p {
     line-height: 1.1;
     color: #152016;
     box-sizing: border-box;
+    width: 100%;
 }
 
 /* Services Container */
