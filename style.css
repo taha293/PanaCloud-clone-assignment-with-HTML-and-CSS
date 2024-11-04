@@ -622,6 +622,7 @@ li {
     flex-direction: column;
     align-items: center;
     padding-bottom: 28px;
+    width: 100%;
 }
 .revheadingss {
     padding: 30px 10px 0px 10px;
