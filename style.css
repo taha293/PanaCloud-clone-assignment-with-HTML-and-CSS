@@ -663,7 +663,8 @@ li {
     justify-content: center;
     align-items: center;
     padding: 0px 40px;
-
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .reviewscontainer .reviews .reviewsitems {
