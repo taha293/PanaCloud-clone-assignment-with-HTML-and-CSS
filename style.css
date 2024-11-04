@@ -400,6 +400,7 @@ li {
     flex-direction: column;
     align-items: center;
     padding-bottom: 28px;
+    width: 100%;
 }
 
 .services {
@@ -472,6 +473,7 @@ li {
     align-items: center;
     padding-bottom: 28px;
     background-color: #212121;
+    width: 100%;
 }
 
 #portheadingss h1 {
@@ -619,6 +621,7 @@ li {
     flex-direction: column;
     align-items: center;
     padding-bottom: 28px;
+    width: 100%;
 }
 
 .reviewscontainer .reviews {
@@ -700,6 +703,7 @@ li {
     flex-direction: column;
     align-items: center;
     padding-bottom: 28px;
+    width: 100%;
 }
 .skillscontainer .skills{
     display: flex;
@@ -808,6 +812,7 @@ li {
     flex-direction: column;
     align-items: center;
     padding-bottom: 52px;
+    width: 100%;
 }
 .projectitems {
     display: flex;
@@ -859,6 +864,7 @@ li {
     flex-direction: column;
     align-items: center;
     padding-bottom: 28px;
+    width: 100%;
 }
 .contactscontainer .contactsitems {
     display: grid;
@@ -892,6 +898,7 @@ footer{
     font-size: 13px;
     padding: 50px 0px;
     line-height: 1;
+    width: 100%;
     
 }
 footer .footeritem1 {
