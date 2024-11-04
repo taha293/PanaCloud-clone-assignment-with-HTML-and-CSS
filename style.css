@@ -624,38 +624,6 @@ li {
     padding-bottom: 28px;
     /* width: 100%; */
 }
-.revheadingss {
-    padding: 30px 10px 0px 10px;
-    box-sizing: border-box;
-    width: 100%;
-    font-size: 16px;
-}
-
-.revheadingss h1 {
-    font-size: 35px;
-    margin: 0;
-    font-weight: 700;
-    text-align: center;
-    padding: 0;
-    color: #152016;
-    box-sizing: border-box;
-}
-
-.revheadingss span {
-    color: #69901d;
-}
-
-.revheadingss p {
-    color: #a5a3a3;
-    text-align: center;
-    /* padding: 0px 200px;  */
-    padding-left: 18%;
-    padding-right: 18%;
-    margin-top: 6px;
-    width: 100%;
-    box-sizing: border-box;
-    font-size: 16px;
-}
 
 .reviewscontainer .reviews {
     display: grid;
