@@ -345,7 +345,7 @@ li {
     /* background-color: #f2f2f2; */
     background-image: url(assets/img/about.png);
     background-repeat: no-repeat;
-    background-position: right top;
+    background-position: right;
     position: absolute;
     top: 0;
     bottom: 0;
