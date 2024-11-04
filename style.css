@@ -293,8 +293,8 @@ li {
     padding-left: 18%;
     padding-right: 18%;
     margin-top: 6px;
-    /* width: 100%; */
-    box-sizing: border-box;
+    width: 100%;
+    /* box-sizing: border-box; */
 }
 
 .advs {
