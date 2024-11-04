@@ -863,7 +863,6 @@ li {
     flex-direction: column;
     align-items: center;
     padding-bottom: 28px;
-    width: 100%;
 }
 .contactscontainer .contactsitems {
     display: grid;
