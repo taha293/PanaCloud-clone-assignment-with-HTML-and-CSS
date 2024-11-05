@@ -273,6 +273,7 @@ li {
     box-sizing: border-box;
     width: 100%;
     font-size: 16px;
+    overflow: hidden;
 }
 
 .headingss h1 {
@@ -283,10 +284,12 @@ li {
     padding: 0;
     color: #152016;
     box-sizing: border-box;
+    overflow: hidden;
 }
 
 .headingss span {
     color: #69901d;
+    overflow: hidden;
 }
 
 .headingss p {
@@ -299,6 +302,7 @@ li {
     width: 100%;
     box-sizing: border-box;
     font-size: 16px;
+    overflow: hidden;
 }
 
 .advs {
@@ -868,6 +872,8 @@ li {
     flex-direction: column;
     align-items: center;
     padding-bottom: 28px;
+    width: 100%;
+    overflow: hidden;
 }
 .contactscontainer .contactsitems {
     display: grid;
