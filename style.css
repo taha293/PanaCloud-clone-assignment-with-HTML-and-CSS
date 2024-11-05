@@ -886,6 +886,7 @@ li {
     margin: 0px;
     padding: 4px;
     box-sizing: border-box;
+    width: 100%;
 }
 .contactscontainer img{
     width: 100%;
